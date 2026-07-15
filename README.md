@@ -133,5 +133,5 @@ This project is an interactive Power BI dashboard developed to analyze RetailMar
 
 # Author
 
-Akash Vishnoi
+Aakash Vishnoi
 
